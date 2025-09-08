@@ -35,7 +35,7 @@
 
 ### 🌀 Fun Typing Animation  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=F700F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Aura+Zeta;Web+Designer+%26+App+Designer;Tech+Lover+%26+Traveller;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=1000&color=F700F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Aura+Zeta;Web+Designer+%26+App+Designer;Tech+Lover+%26+Traveller;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
