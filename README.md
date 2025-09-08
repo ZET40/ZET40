@@ -1,38 +1,46 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Aura Zeta</h1>
-<h3 align="center">🌟 Passionate about Web Design, App Design & E-Learning 🌟</h3>
+<!-- Header -->
+<h1 align="center">✨ Hi there, I'm Aura Zeta ✨</h1>
+<h3 align="center">💻 Web & App Designer | 🌍 Tech Enthusiast | ✈️ Traveller</h3>
 
-<!-- Profile Photo -->
+<!-- Foto Profil -->
 <p align="center">
-  <img src="zeta.png" alt="Aura Zeta" width="200" style="border-radius:50%;"/>
+  <img src="zeta.jpg" alt="Aura Zeta" width="200" style="border-radius:50%;" />
 </p>
 
 ---
 
-### 💫 About Me
-✨ Hi! I'm **Aura Zeta**, a curious mind who loves learning new things about **IT, design, and technology**.  
-🤝 I enjoy connecting with new people and sharing ideas!  
+### 💫 About Me  
+🌟 Hi! I'm **Aura Zeta**, an enthusiastic learner passionate about technology and design.  
+🌍 I love exploring new ideas, learning new IT skills, and making friends along the way.  
+🤝 Open for collaboration and creative projects!  
 
 ---
 
-### 🔥 Interests
-- 🎨 **Web Design**
-- 📱 **App Design**
-- 🎓 **E-Learning**
-- 🌍 **Travelling**
+### 🔥 My Interests  
+- 🎨 **Web Design**  
+- 📱 **App Design**  
+- 🎓 **E-Learning**  
+- 🌍 **Travelling**  
 
 ---
 
-### 📲 Connect with me
+### 📲 Connect with me  
 <p>
   <a href="https://instagram.com/au.razta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
 ---
 
-### ⚡ GitHub Stats & Activity
+### 🌀 Fun Typing Animation  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=F700F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Aura+Zeta;Web+Designer+%26+App+Designer;Tech+Lover+%26+Traveller;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+---
+
+### ⚡ GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZET40&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -43,18 +51,11 @@
 
 ---
 
-### 👀 Profile Visitors
+### 👀 Profile Visitors  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZET40&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌀 Fun Animation
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=1000&color=F700F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Aura+Zeta;Web+Designer+%26+App+Designer;Lifelong+Learner;Open+to+Collaboration" alt="Typing SVG" />
-</p>
-
----
-
-⭐ **Thank you for visiting my profile!**  
+⭐ **Thanks for visiting my profile! Let's connect and build something amazing!**  
